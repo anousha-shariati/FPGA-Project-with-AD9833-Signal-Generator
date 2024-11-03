@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/My/Desktop/project2_fpga/proj2_2/proj2_2/main_tb1_isim_beh.exe" -prj "C:/Users/My/Desktop/project2_fpga/proj2_2/proj2_2/main_tb1_beh.prj" "work.main_tb1" 
