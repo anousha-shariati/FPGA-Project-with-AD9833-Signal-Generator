@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>FPGA Project with AD9833</title>
+
 </head>
 <body>
 
@@ -67,8 +67,6 @@
     <li><a href="https://www.analog.com/media/en/technical-documentation/application-notes/AN-1070.pdf">AD9833 Application Notes</a></li>
 </ul>
 
-<h2>Credits</h2>
-<p>Project by [Your Name] as part of the FPGA course under the supervision of Dr. Shariatmadar, Term 1403-1402.</p>
 
 </body>
 </html>
